@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuboApiDocker", "CuboApiDocker\CuboApiDocker.csproj", "{9EA05B3E-876B-4FDD-8B99-5CC0CF6D37A8}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{659BB82B-B3C0-4FB0-A99C-4353390CC294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA05B3E-876B-4FDD-8B99-5CC0CF6D37A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA05B3E-876B-4FDD-8B99-5CC0CF6D37A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA05B3E-876B-4FDD-8B99-5CC0CF6D37A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA05B3E-876B-4FDD-8B99-5CC0CF6D37A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659BB82B-B3C0-4FB0-A99C-4353390CC294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659BB82B-B3C0-4FB0-A99C-4353390CC294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659BB82B-B3C0-4FB0-A99C-4353390CC294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659BB82B-B3C0-4FB0-A99C-4353390CC294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83118C44-B52F-4CE9-A133-E80BFBE61BD3}
+	EndGlobalSection
+EndGlobal
