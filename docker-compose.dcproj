@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Windows</DockerTargetOS>
-    <ProjectGuid>659bb82b-b3c0-4fb0-a99c-4353390cc294</ProjectGuid>
+    <ProjectGuid>540de387-728b-47a5-bc38-2384404e5500</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://{ServiceIPAddress}{ServicePort}/api/values</DockerServiceUrl>
     <DockerServiceName>cuboapidocker</DockerServiceName>
